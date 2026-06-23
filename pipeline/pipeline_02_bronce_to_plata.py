@@ -222,7 +222,7 @@ def procesar_exploracion_plata():
     cobertura_temporal = f"Desde {fecha_min} hasta {fecha_max}"
 
     metadatos_generales = pd.DataFrame([
-        ["Nombre del conjunto de datos", "misiones_plata"],
+        ["Nombre del conjunto de datos", "santa_fe_plata"],
         ["Fuente original", "Servicio Meteorológico Nacional (SMN)"],
         ["Cobertura geográfica", cobertura_geo],
         ["Cobertura temporal", cobertura_temporal],
