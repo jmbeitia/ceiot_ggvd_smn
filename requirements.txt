@@ -12,5 +12,6 @@ prefect
 python-multipart
 watchdog
 windrose
+folium
 asyncpg
 python-dotenv
